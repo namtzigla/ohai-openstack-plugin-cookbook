@@ -1,4 +1,4 @@
-name             'ohai-openstack-plugin'
+name             'git@github.com:namtzigla/ohai-openstack-plugin-cookbook.git'
 maintainer       'Florin STAN'
 maintainer_email 'florin.stan@gmail.com'
 license          'All rights reserved'

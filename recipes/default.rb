@@ -9,6 +9,6 @@
 
 
 cookbook_file "openstack-plugin.rb" do 
-  path "/etc/ohai/plugins/"
+  path "/etc/chef/ohai_plugins/"
   action :create
 end
